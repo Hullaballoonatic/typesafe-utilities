@@ -19,6 +19,6 @@
     "out/**"
   ],
   "include": [
-    "src/**/*.ts"
+    "lib/**/*.ts"
   ]
 }
