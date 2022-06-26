@@ -1,5 +1,5 @@
 {
-  "name": "@Hullaballonatic/typesafe-utilities",
+  "name": "@hullaballonatic/typesafe-utilities",
   "version": "0.0.1",
   "description": "type-safe utilities for typescript",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hullaballonatic/typesafe-utilities.git"
+    "url": "git://github.com/Hullaballonatic/typesafe-utilities.git"
   },
   "files": [
     "lib/**/*"
@@ -20,6 +20,9 @@
     "url": "htts://github.com/Hullaballonatic/typesafe-utilities/issues"
   },
   "homepage": "https://github.com/Hullaballonatic/typesafe-utilities#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@types/jest": "^28.1.3",
     "@types/node": "^18.0.0",
