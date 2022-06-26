@@ -1,5 +1,5 @@
 {
-  "name": "@hullaballonatic/typesafe-utilities",
+  "name": "@hullaballoonatic/typesafe-utilities",
   "version": "0.0.2",
   "description": "type-safe utilities for typescript",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Hullaballonatic/typesafe-utilities.git"
+    "url": "https://github.com/hullaballoonatic/typesafe-utilities.git"
   },
   "files": [
     "lib/**/*"
@@ -17,11 +17,11 @@
   "author": "Casey Stratton",
   "license": "MIT",
   "bugs": {
-    "url": "htts://github.com/Hullaballonatic/typesafe-utilities/issues"
+    "url": "https://github.com/hullaballonatic/typesafe-utilities/issues"
   },
   "homepage": "https://github.com/Hullaballonatic/typesafe-utilities#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@types/jest": "^28.1.3",
