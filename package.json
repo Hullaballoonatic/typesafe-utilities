@@ -1,6 +1,6 @@
 {
   "name": "@hullaballoonatic/typesafe-utilities",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "type-safe utilities for typescript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
