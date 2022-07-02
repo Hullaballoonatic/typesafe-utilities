@@ -1,4 +1,4 @@
-import {associatedBy} from './index';
+import associatedBy from './associatedBy';
 
 describe('associatedBy', () => {
     it('should return expected value', () => {

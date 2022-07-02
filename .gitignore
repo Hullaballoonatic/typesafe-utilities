@@ -1,4 +1,5 @@
 node_modules
 .idea
-/lib
+lib/**/*.js
+lib/**/*.d.ts
 /coverage

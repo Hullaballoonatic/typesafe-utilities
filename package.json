@@ -1,5 +1,5 @@
 {
-  "name": "@Hullaballonatic/typesafe-utilities",
+  "name": "@hullaballonatic/typesafe-utilities",
   "version": "0.0.1",
   "description": "type-safe utilities for typescript",
   "main": "lib/index.js",

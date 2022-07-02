@@ -1,4 +1,4 @@
-import {keyedBy} from './index';
+import keyedBy from './keyedBy';
 
 describe('keyedBy', () => {
     type testType = { dir: string, code: number }

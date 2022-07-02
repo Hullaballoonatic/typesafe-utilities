@@ -1,7 +1,7 @@
 import associatedBy from './associatedBy';
+import drop from './drop';
 import groupedBy from './groupedBy';
 import keyedBy from './keyedBy';
-import Key from './Key';
 import partitionedBy from './partitionedBy';
 
-export {associatedBy, groupedBy, Key, keyedBy, partitionedBy};
+export default {associatedBy, drop, groupedBy, keyedBy, partitionedBy};
