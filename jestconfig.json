@@ -12,7 +12,8 @@
   "collectCoverageFrom": [
     "**/*.ts",
     "!**/node_modules/**",
-    "!**/*.d.ts"
+    "!**/*.d.ts",
+    "!**/index.ts"
   ],
   "coverageThreshold": {
     "global": {
