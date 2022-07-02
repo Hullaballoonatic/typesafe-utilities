@@ -12,7 +12,8 @@
     "url": "https://github.com/hullaballoonatic/typesafe-utilities.git"
   },
   "files": [
-    "lib/**/*"
+    "lib/**/*.js",
+    "lib/**/*.d.ts"
   ],
   "author": "Casey Stratton",
   "license": "MIT",
